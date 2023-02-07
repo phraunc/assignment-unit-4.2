@@ -1,0 +1,26 @@
+h1{
+    background-color: blue;
+    color: coral;
+}
+
+h2{
+    font-family: fantasy;
+    color: darkgrey;
+    background-color: cadetblue;
+}
+h3{
+    background-color: rgb(52, 35, 68);
+    color: brown;
+}
+div{
+    border-style: solid;
+    color: black;
+    background-color: aquamarine;
+    margin;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
